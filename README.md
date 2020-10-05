@@ -19,7 +19,7 @@
 
 ## Help
 
-####Optional Arguments:
+#### Optional Arguments:
 - -h, --help **(show this help message and exit)**
 - -i INPUT **(Input filename of single PDF)**
 - -o OUTPUT **(Output filename of merged PDF)**
