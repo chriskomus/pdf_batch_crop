@@ -17,7 +17,7 @@ start_time = time.time()
 
 # CONSTANTS - Override by entering command line args instead
 # with command line arg overrides
-PDFS_FOLDER = "/Volumes/Outside/Dropbox/KMS/Receipts/Shipping Labels/"              # Override with -d
+PDFS_FOLDER = "/Volumes/Location/of/PDFs/Files/to/Batch/"                           # Override with -d
 PDFS_FILENAME = ""                                                                  # Override with -i
 PDFS_SUFFIX = "crop"                                                                # Override with -s
 PDFS_FILTER = "Commercial Invoice"                                                  # Override with -f
