@@ -9,7 +9,7 @@
 - Set a custom filename suffix for cropped PDFs
 - Set a custom name for merged PDFs
 - Set a custom sub-directory for Archived PDFs
-- Use command line arguments or constant variables set in the .py file for easier routine batch jobs.
+- Use command line arguments in a command batch file, or constant variables set in the .py file for easier routine batch jobs.
 - Fast! Completely dependent on the PDF content and hardware specs but it should crop, merge, and archive 100 Shipping Label PDFs in about 3-5 seconds.
 
 ## Ideal for Cropping 8.5" x 11" Shipping Labels to 4" x 6" Thermal Labels.
