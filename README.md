@@ -36,7 +36,7 @@
 - -r, --rotate          **(Rotate all Portrait to Landscape)**
 - -c, --archivebymonth  **(Put archived PDFs in sub folders archived by date)**                
 
-# Based on PyPDF2
+# Requires PyPDF2
 
 You will need to get PyPDF2 up and running first.
 
