@@ -2,8 +2,9 @@
 
 - This was created specifically to Crop Shipping Labels from 8.5" x 11" to 4" x 6" Mailing Thermal Labels, but can be modified for any other PDF batch processing.
 - The default settings are designed to automatically crop Canada Post 8.5" x 11" shipping labels to 4" x 6" Mailing Thermal Labels.
+- This replaces the need to manually crop and print PDFs in Adobe Reader, for example.
 
-# Batch Crop, Merge, and Move PDFs
+## Batch Crop, Merge, and Move PDFs
 
 - Crop single PDFs, or batch crop entire directories
 - Merge batched PDFs all into one PDF
